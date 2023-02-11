@@ -10,6 +10,9 @@ public class C extends Test1 {
 	void demo() {
 			System.out.println("This is demo method ");
 		}
+	void demo1() {
+		System.out.println("This is demo 1 method");
+	}
 		
 	}
 
