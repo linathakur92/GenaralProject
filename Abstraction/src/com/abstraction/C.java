@@ -1,6 +1,7 @@
 package com.abstraction;
 
 public class C extends Test1 {
+	//Comment to check Push Pull Operation
 	@Override
 	void example() {
 		System.out.println("This is example method");
